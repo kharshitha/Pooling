@@ -1,0 +1,50 @@
+{
+  "Users": [
+    {
+      "Id": "338fc6b0-b7d3-4a4e-9772-4f5849cb1f89",
+      "Name": "test",
+      "Age": 123,
+      "Type": 0,
+      "Role": 0,
+      "AdharNo": 987654321012,
+      "MobileNo": 9876543210,
+      "DrivingLicenseNo": "65876g",
+      "UserName": "test",
+      "Password": "123",
+      "IsActive": true,
+      "Wallet": {
+        "Id": "774ad14e-0b96-45d1-83a5-50f4eb8437c0",
+        "Balance": 0.0
+      },
+      "Reviews": [],
+      "RequestIds": [],
+      "ConfirmationIds": [],
+      "PaymentReceipt": []
+    },
+    {
+      "Id": "576d6cd2-bea3-465c-afe2-c020c92af3aa",
+      "Name": "try",
+      "Age": 123,
+      "Type": 0,
+      "Role": 0,
+      "AdharNo": 987654321901,
+      "MobileNo": 9876543219,
+      "DrivingLicenseNo": "tf65346",
+      "UserName": "try",
+      "Password": "123",
+      "IsActive": true,
+      "Wallet": {
+        "Id": "0ea425b9-3665-440e-92c7-4e39d6c7e6f1",
+        "Balance": 0.0
+      },
+      "Reviews": [],
+      "RequestIds": [],
+      "ConfirmationIds": [],
+      "PaymentReceipt": []
+    }
+  ],
+  "Bookings": [],
+  "Rides": [],
+  "Payments": [],
+  "Requests": []
+}

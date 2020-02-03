@@ -1,0 +1,11 @@
+C:\c#\source\repos\CarPool\JSONOperations\bin\Debug\netcoreapp3.1\JSONOperations.deps.json
+C:\c#\source\repos\CarPool\JSONOperations\bin\Debug\netcoreapp3.1\JSONOperations.dll
+C:\c#\source\repos\CarPool\JSONOperations\bin\Debug\netcoreapp3.1\Models.dll
+C:\c#\source\repos\CarPool\JSONOperations\bin\Debug\netcoreapp3.1\Models.pdb
+C:\c#\source\repos\CarPool\JSONOperations\obj\Debug\netcoreapp3.1\JSONOperations.csprojAssemblyReference.cache
+C:\c#\source\repos\CarPool\JSONOperations\obj\Debug\netcoreapp3.1\JSONOperations.AssemblyInfoInputs.cache
+C:\c#\source\repos\CarPool\JSONOperations\obj\Debug\netcoreapp3.1\JSONOperations.AssemblyInfo.cs
+C:\c#\source\repos\CarPool\JSONOperations\obj\Debug\netcoreapp3.1\JSONOperations.csproj.CopyComplete
+C:\c#\source\repos\CarPool\JSONOperations\bin\Debug\netcoreapp3.1\JSONOperations.pdb
+C:\c#\source\repos\CarPool\JSONOperations\obj\Debug\netcoreapp3.1\JSONOperations.dll
+C:\c#\source\repos\CarPool\JSONOperations\obj\Debug\netcoreapp3.1\JSONOperations.pdb

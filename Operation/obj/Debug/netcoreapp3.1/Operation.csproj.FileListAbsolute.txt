@@ -1,0 +1,15 @@
+C:\c#\source\repos\CarPool\Operation\bin\Debug\netcoreapp3.1\Operation.deps.json
+C:\c#\source\repos\CarPool\Operation\bin\Debug\netcoreapp3.1\Operation.dll
+C:\c#\source\repos\CarPool\Operation\bin\Debug\netcoreapp3.1\Operation.pdb
+C:\c#\source\repos\CarPool\Operation\bin\Debug\netcoreapp3.1\Interface.dll
+C:\c#\source\repos\CarPool\Operation\bin\Debug\netcoreapp3.1\Models.dll
+C:\c#\source\repos\CarPool\Operation\bin\Debug\netcoreapp3.1\Services.dll
+C:\c#\source\repos\CarPool\Operation\bin\Debug\netcoreapp3.1\Models.pdb
+C:\c#\source\repos\CarPool\Operation\bin\Debug\netcoreapp3.1\Services.pdb
+C:\c#\source\repos\CarPool\Operation\bin\Debug\netcoreapp3.1\Interface.pdb
+C:\c#\source\repos\CarPool\Operation\obj\Debug\netcoreapp3.1\Operation.csprojAssemblyReference.cache
+C:\c#\source\repos\CarPool\Operation\obj\Debug\netcoreapp3.1\Operation.AssemblyInfoInputs.cache
+C:\c#\source\repos\CarPool\Operation\obj\Debug\netcoreapp3.1\Operation.AssemblyInfo.cs
+C:\c#\source\repos\CarPool\Operation\obj\Debug\netcoreapp3.1\Operation.csproj.CopyComplete
+C:\c#\source\repos\CarPool\Operation\obj\Debug\netcoreapp3.1\Operation.dll
+C:\c#\source\repos\CarPool\Operation\obj\Debug\netcoreapp3.1\Operation.pdb

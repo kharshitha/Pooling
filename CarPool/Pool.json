@@ -1,0 +1,82 @@
+{
+  "Users": [
+    {
+      "Id": "fc47ee82-ad7c-43b7-ba94-9b9fe8723cbe",
+      "Name": "test",
+      "Age": 2,
+      "Type": 1,
+      "Role": 0,
+      "AdharNo": 111111111111,
+      "MobileNo": 9999999999,
+      "DrivingLicenseNo": "1",
+      "UserName": "test1",
+      "Password": "123",
+      "IsActive": true,
+      "Wallet": {
+        "Id": "d031e7a2-ca50-4999-b5f4-4a8337fb8493",
+        "Balance": 0.0
+      },
+      "Reviews": [],
+      "RequestIds": [],
+      "ConfirmationIds": [],
+      "PaymentReceipt": []
+    },
+    {
+      "Id": "8d16fd1e-e1af-4e6e-9192-61425493af86",
+      "Name": "test",
+      "Age": 2,
+      "Type": 1,
+      "Role": 0,
+      "AdharNo": 222222222222,
+      "MobileNo": 9222222222,
+      "DrivingLicenseNo": "123",
+      "UserName": "test2",
+      "Password": "123",
+      "IsActive": true,
+      "Wallet": {
+        "Id": "6e29ebc9-5242-4fe3-ab7b-3b882711720e",
+        "Balance": 123.0
+      },
+      "Reviews": [],
+      "RequestIds": [],
+      "ConfirmationIds": [],
+      "PaymentReceipt": []
+    }
+  ],
+  "Bookings": [],
+  "Rides": [
+    {
+      "Id": "5012b53d-45a2-4999-9365-18b54df36253",
+      "Vehicle": {
+        "Id": "a8bdc6fb-0d3c-484b-94e8-5310cd96cfa4",
+        "Number": "ap22oo1234",
+        "Name": "hh",
+        "Capacity": 3,
+        "UserIds": [
+          "fc47ee82-ad7c-43b7-ba94-9b9fe8723cbe"
+        ]
+      },
+      "Route": {
+        "Id": "e14fbd32-1a4c-4a5c-b4fa-70c8ba968819",
+        "Source": "hyd",
+        "Destination": "mad"
+      },
+      "StopOvers": [
+        {
+          "Place": "beg",
+          "vacancies": 2.0
+        },
+        {
+          "Place": "ameer",
+          "vacancies": 2.0
+        }
+      ],
+      "Cost": 2.0,
+      "IsVacant": false,
+      "Review": null,
+      "Status": 0
+    }
+  ],
+  "Payments": [],
+  "Requests": []
+}
